@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import axios from 'axios'
 
-// !!!! note: real security is implemented in the back end!!!!!
+// !!!! note: real security is implemented in the back end!
 // this is more like a better UI/UX, not exactly security
 // even if it is called a 'protected' route, 
 // the protection happens on the server
